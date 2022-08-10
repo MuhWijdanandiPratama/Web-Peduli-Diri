@@ -1,0 +1,3 @@
+NIK|NAMA LENGKAP|EMAIL|NO TELEPON
+3174034607050001|Muhammad Wijdanandi Pratama|pratamwijdanandi@gmail.com|082228677274
+3504012012040001|Dani|Mvvp0107@gmail.com|0888888888
